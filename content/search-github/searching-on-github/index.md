@@ -7,10 +7,7 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
-topics:
-  - GitHub search
 children:
   - /finding-files-on-github
   - /searching-for-repositories
@@ -24,4 +21,6 @@ children:
   - /searching-for-packages
   - /searching-wikis
   - /searching-in-forks
+  - /searching-gists
 ---
+
